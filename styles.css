@@ -1,0 +1,53 @@
+p{
+    color: rgb(136, 9, 9);
+    font-size: 20px;
+}
+
+h1{
+    color: brown;
+    font-size: 35px;
+}
+h2{
+    color: blue;
+    font-size: 30px;
+}
+h3{
+    color: orangered;
+    font-size: 25px;
+}
+
+label {
+    color:brown;
+    font-size: 28px;
+    
+}
+
+
+
+
+textarea{
+
+    font-size: 35px;
+}
+
+/*Cajas con diferentes estilos */
+
+.box{
+    width: 200px;
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+.red-box{
+    background-color: lightcoral;
+}
+
+.blue-box{
+    background-color: lightblue;
+}
+
+.green-box{
+    background-color: lightgreen;
+}
